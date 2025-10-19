@@ -403,7 +403,7 @@
                 text: "Cảm ơn vợ vì đã luôn ở bên cạnh chồng"
             },
             {
-                img: "file:///C:/Users/ADMIN/Downloads/z7134299865929_a95779ccba9562190857e79fafc6fb4d.jpg",
+                img: "z7134297955365_2bf7ccc94db04bdc6bf08f9395219857.jpg",
                 text: "Chúc vợ một ngày 20/10 thật hạnh phúc và luôn tràn đầy may mắn "
             },
             {
