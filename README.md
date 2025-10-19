@@ -394,7 +394,7 @@
             },
             {
                 img: "z7134241804196_536350d66489b4d8057849bba9190f31.jpg",
-                text: "Mỗi ngày của em đều là một đoá hoa nở rộ."
+                text: "Nụ cười của em đều luôn tỏa ra ánh nắng."
             },
             {
                 img: "z7134241812655_5a06e1b6916557eb1821f6e99d70e053.jpg",
