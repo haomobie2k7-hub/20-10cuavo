@@ -389,8 +389,8 @@
         //Sửa ảnh và lời nhắn ở đây
         const messages = [
             {
-                img: "z7134241781562_c3f2379bc37bcbe593e59a6be5a08dec.jpg", //Thay ảnh
-                text: "Chúc vợ yêu luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!" //Thay lời nhắn
+                img: "z7134241781562_c3f2379bc37bcbe593e59a6be5a08dec.jpg", 
+                text: "Chúc vợ yêu luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!" 
             },
             {
                 img: "z7134241804196_536350d66489b4d8057849bba9190f31.jpg",
