@@ -372,8 +372,7 @@
     </div>
 
     <!-- Ảnh động trang trí -->
-    <img src="mewmew.gif" alt="GIF" class="center-gif" /> <!-- Thay ảnh động bên dưới -->
-
+   
     <!-- Hiển thị lời chúc -->
     <div class="popup" id="popup">
         <div class="popup-content">
