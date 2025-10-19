@@ -407,7 +407,7 @@
                 text: "Chúc vợ một ngày 20/10 thật hạnh phúc và luôn tràn đầy may mắn "
             },
             {
-                img: "file:///C:/Users/ADMIN/Downloads/z7134297955365_2bf7ccc94db04bdc6bf08f9395219857.jpg",
+                img: "z7134299865929_a95779ccba9562190857e79fafc6fb4d.jpg",
                 text: "Em là món quà tuyệt vời nhất mà cuộc sống mang lại cho anh "
             }
         ];
