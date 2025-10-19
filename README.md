@@ -372,7 +372,7 @@
     </div>
 
     <!-- Ảnh động trang trí -->
-    <img src="/assets/mewmew.gif" alt="GIF" class="center-gif" /> <!-- Thay ảnh động bên dưới -->
+    <img src="mewmew.gif" width:"200" alt="GIF" class="center-gif" /> <!-- Thay ảnh động bên dưới -->
 
     <!-- Hiển thị lời chúc -->
     <div class="popup" id="popup">
