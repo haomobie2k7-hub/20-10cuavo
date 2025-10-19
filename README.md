@@ -395,7 +395,7 @@
                 text: "Chúc vợ yêu luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!" //Thay lời nhắn
             },
             {
-                img: "file:///C:/Users/ADMIN/Downloads/z7134241812655_5a06e1b6916557eb1821f6e99d70e053.jpg",
+                img: "z7134241804196_536350d66489b4d8057849bba9190f31.jpg",
                 text: "Mỗi ngày của em đều là một đoá hoa nở rộ."
             },
             {
