@@ -399,7 +399,7 @@
                 text: "Mỗi ngày của em đều là một đoá hoa nở rộ."
             },
             {
-                img: "file:///C:/Users/ADMIN/Downloads/z7134241781562_c3f2379bc37bcbe593e59a6be5a08dec.jpg",
+                img: "z7134241812655_5a06e1b6916557eb1821f6e99d70e053.jpg",
                 text: "Cảm ơn vợ vì đã luôn ở bên cạnh chồng"
             },
             {
